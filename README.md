@@ -4,9 +4,18 @@ download and extract the sftware folder
 
 cd into the extracted directory and run,
 
+for Linux shell,
+
 ```shell
 python setup.py sdist bdist_wheel
 pip install dist/*whl
+```
+
+for Windows command line,
+
+```shell
+python setup.py sdist bdist_wheel
+for %i in (dist\*.whl) do pip install %i
 ```
 
 # **Usage**
