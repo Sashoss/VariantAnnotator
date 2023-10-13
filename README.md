@@ -74,4 +74,4 @@ Below is the example output excel sheet image
 
 # **Things to do**
 1. Error handelling
-2. Add protein data
+2. Add protein structure-function annotations
