@@ -70,3 +70,8 @@ It pulls following annotations for each variant within the vcf file
 Below is the example output excel sheet image
 
 ![plot](./output_example.png)
+
+
+# **Things to do**
+1. Error handelling
+2. Add protein data
