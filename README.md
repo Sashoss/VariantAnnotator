@@ -23,7 +23,7 @@ for %i in (dist\*.whl) do pip install %i
 ```python
 from VariantAnnotator import *
 
-ParseObj = Parser("test_vcf_data1.txt")
+ParseObj = Parser("yourVCFfile.txt")
 variants = ParseObj.parseInput()
 ANNOTATE(variants, output="myOutputFile.xlsx")
 ```
