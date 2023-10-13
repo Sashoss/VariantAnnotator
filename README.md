@@ -1,3 +1,6 @@
+
+
+
 # **Installation**
 
 download and extract the zip folder
@@ -17,6 +20,9 @@ for Windows command line,
 python setup.py sdist bdist_wheel
 for %i in (dist\*.whl) do pip install %i
 ```
+
+# **Input**
+It takes vcf file as input
 
 # **Usage**
 
