@@ -1,6 +1,6 @@
 # **Installation**
 
-download and extract the sftware folder
+download and extract the zip folder
 
 cd into the extracted directory and run,
 
