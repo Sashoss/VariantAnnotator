@@ -33,7 +33,7 @@ ANNOTATE(variants, output="myOutputFile.xlsx")
 It pulls following annotations for each variant within the vcf file
 
 
-## ***Base Annotations***
+### ***Base Annotations***
  
 1. Gene name
 2. Variant biotype	
@@ -42,18 +42,18 @@ It pulls following annotations for each variant within the vcf file
 5. Amino acids: Reports associated amino acid mutation	
 6. Codons: Reports associated codon mutation
 
-## ***Database Ids***  
+### ***Database Ids***  
 7. rsid: variant dbSNP database id	
 8. Uniprot id: Variant Uniprot database id	
 9. Cosmic id: Variant Cosmic database id	
 10. Clinvar id: Variant Clinvar database id	
 11. PharmGKB ID: Variant PharmGKB database id
 
-## ***Amino acid mutation scores***     
+### ***Amino acid mutation scores***     
 12. SIFT: SIFT scare for the amino acid mutation
 13. Polyphen: Polyphen score for amino acid mutation
 
-## ***Mutation frequency***   
+### ***Mutation frequency***   
 14. American: Frequency of the variant in American population	
 15. South Asian: Frequency of the variant in South Asian population	
 16. East Asian: Frequency of the variant in East Asian population	
